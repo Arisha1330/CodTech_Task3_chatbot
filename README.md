@@ -1,14 +1,14 @@
-# AI Chatbot with NLP – CodTech Internship Task 3
+# 🤖AI Chatbot with NLP – CodTech Internship Task 3
 
-## Description:
+## 📝Description:
 This chatbot is developed using Python and spaCy NLP library. It can understand basic user inputs and respond intelligently using predefined intents.
 
-## Features:
+## 🛠Features:
 - Built with spaCy
 - Recognizes user intents (greeting, farewell, etc.)
 - Easy to modify and expand with more intents
 
-## How to Run:
+## ▶️How to Run:
 1. Install requirements:
    pip install spacy
    python -m spacy download en_core_web_sm
@@ -21,11 +21,6 @@ This chatbot is developed using Python and spaCy NLP library. It can understand 
    - "What can you do?"
    - "How are you?"
    - "Bye"
-
-## Deliverables:
-- Python script (spacy_chatbot.py)
-- README file
--# CodTech_Task3_chatbot
 
 ## ✍️ Author
 
