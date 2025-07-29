@@ -25,7 +25,7 @@ This chatbot is developed using Python and spaCy NLP library. It can understand 
 ## ✍️ Author
 
 - **Arisha Ansari**  
-- CodTech Internship – Task 4  
+- CodTech Internship 
 - July 2025
 
 ---
